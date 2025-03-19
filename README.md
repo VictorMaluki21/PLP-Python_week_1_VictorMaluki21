@@ -19,4 +19,21 @@ Objective
 
 Practice creating Python programs to perform arithmetic and string, experimenting with variables, and exploring data types.
 
+#Assignment Solution
+
+✅ How It Works:
+- Takes two numbers as input from the user.
+- Asks for an operation (+, -, *, /).
+- Performs the operation based on user input.
+- Handles division by zero with an error message.
+- Prints the result in a readable format.
+
+🛠 Example Run:
+
+Enter the first number: 10
+Enter the second number: 5
+Enter an operation (+, -, *, /): +
+10 + 5 = 15
+
+🔥 Now you can test and modify it to add more features, like exponentiation (**) or modulus (%)!
 
